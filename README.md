@@ -9,3 +9,5 @@ Generates certificates in Google Slides using a Google Sheet for data, powered b
 5. In the Google Slide, go to Tools -> Script Editor, and copy the code into the editor
 6. Copy the Google Sheet ID into the appropriate spot in the "var ss" declaration
 7. Run the script!
+
+#### In the future, I plan on releasing this as both a standalone addon for Google Slides, as well as a web app that can be run by anyone from a convenient site.
