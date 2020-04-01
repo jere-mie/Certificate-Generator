@@ -1,3 +1,15 @@
+/*
+
+GOOGLE SLIDES CERTIFICATE GENERATOR SCRIPT
+WRITTEN AND PUBLISHED BY JEREMIE BORNAIS
+MARCH 31, 2020
+
+THIS CODE IS FREE TO USE BY ALL
+MOST RECENT CODE CAN BE FOUND AT
+https://github.com/jere-mie/Certificate-Generator/
+
+*/
+
 function myFunction() {
   var presentation = SlidesApp.getActivePresentation();
   var ss = SpreadsheetApp.openById('ENTER_SHEETS_ID_HERE');
